@@ -1,0 +1,9 @@
+{
+    "gds": "/home/ishikai/tools/gf180mcu-precheck/runs/RUN_2026-07-14_11-31-08/04-klayout-generateid/TOP_ISHI-KAI.gds",
+    "render": "/home/ishikai/tools/gf180mcu-precheck/runs/RUN_2026-07-14_11-31-08/05-klayout-render/TOP_ISHI-KAI.png",
+    "metrics": {
+        "klayout__density_error__count": 0,
+        "klayout__zero_area_polygons__count": 0,
+        "klayout__antenna_error__count": 0
+    }
+}

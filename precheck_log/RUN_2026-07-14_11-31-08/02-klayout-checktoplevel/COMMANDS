@@ -1,0 +1,1 @@
+/nix/store/5pg1p37fxc5pyi40lfgay9s953yp3qdh-devshell-dir/bin/python3 /home/ishikai/tools/gf180mcu-precheck/scripts/klayout/check_top.py /home/ishikai/tools/gf180mcu-precheck/runs/RUN_2026-07-14_11-31-08/01-klayout-readlayout/TOP_ISHI-KAI.gds --top TOP_ISHI-KAI
