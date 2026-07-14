@@ -7,7 +7,6 @@ In addition, pads for probing were added to all circuits, taking into account th
 Since ISHI-KAI has university professors and semiconductor companies as collaborators, we are able to borrow probers through the generosity of professors and companies.Therefore, we plan to run analog circuits by probing.  
 
 - ![all_members_layout_using](/images/chip_image_members.png)
-- ![Chip_photo](/chip_photo/File_158.JPG)
 
 
 ## Project List
@@ -36,8 +35,6 @@ Since ISHI-KAI has university professors and semiconductor companies as collabor
 ### [GDS](/gds/)
 - Layout Files(They are compressed because it exceeded 100MB.)
     - [Layout File](/gds/ISHI-KAI_WS_RUN2.zip)
-    - [Layout File without Filler](/gds/ISHI-KAI_WS_RUN2_nofiller.zip)
-    - [Layout File without Filler and Delete "CONTEXT_INFO" data](/gds/ISHI-KAI_WS_RUN2_nofiller_delContext.zip)
 - [Frame File](/gds/frame_ISHI-KAI.gds)
 - [Member's Project](/gds/member_project/)
 - ![KLayout](/images/chip_image_klayout.png)
@@ -61,8 +58,8 @@ This project was submitted to [Wafer.Space's RUN2](https://www.crowdsupply.com/w
 
 
 ### Precheck Log
-- [precheck log](/precheck_log/RUN_/)
-- ![precheck log](/images/precheck_10th_OK.png)
+- [precheck log](/precheck_log/RUN_2026-07-14_11-31-08/)
+- ![precheck log](/images/precheck_OK.png)
 - ![submit log](/images/Submit_OK.png)
 
 
