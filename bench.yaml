@@ -1,0 +1,26 @@
+source:
+  url: https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_WaferSapce-GF180-2
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: Apache-2.0
+  upstream_default_branch: main
+tapeouts:
+- org: wafer.space
+  run: ws-run2
+  slot: ISHI
+  project: ISHI-KAI_Multiple_Projects_WaferSapce-GF180-2
+  size: 0p5x1
+  kind: analog (full custom)
+  commit: 1a0be37edb4b
+  commit_source: design_ref head recorded by the ws-run1/2 audit
+  tag: wafer.space/ws-run2/ISHI
+  branch: tapeout/wafer.space/ws-run2/ISHI
+  page: https://wafer.space/ws-run2/
+generated: '2026-10-17T23:52:20Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- tapeout/wafer.space/ws-run2/ISHI
+- upstream/main
